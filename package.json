@@ -1,0 +1,17 @@
+{
+  "dependencies": {
+    "knex": "^0.95.14",
+    "mysql": "^2.18.1",
+    "restify": "^8.6.0",
+    "restify-errors": "^8.0.2"
+  },
+  "name": "curso-node",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
