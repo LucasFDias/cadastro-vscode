@@ -1,1 +1,9 @@
-# projeto-vscode
+# projeto-vscode 
+
+
+
+
+#Linguagens utilizadas
+
+- Javascript
+-
