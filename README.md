@@ -3,7 +3,7 @@
 
 
 
-## Linguagens utilizadas
+## Ferramentas utilizadas
 
 - Javascript
--
+- FontAwesome
